@@ -1,0 +1,8 @@
+C:\Kode\s2\conosol\hieraki\hieraki\bin\Debug\hieraki.exe.config
+C:\Kode\s2\conosol\hieraki\hieraki\bin\Debug\hieraki.exe
+C:\Kode\s2\conosol\hieraki\hieraki\bin\Debug\hieraki.pdb
+C:\Kode\s2\conosol\hieraki\hieraki\bin\Debug\HierakiTest.dll
+C:\Kode\s2\conosol\hieraki\hieraki\bin\Debug\HierakiTest.pdb
+C:\Kode\s2\conosol\hieraki\hieraki\obj\Debug\hieraki.csprojResolveAssemblyReference.cache
+C:\Kode\s2\conosol\hieraki\hieraki\obj\Debug\hieraki.exe
+C:\Kode\s2\conosol\hieraki\hieraki\obj\Debug\hieraki.pdb

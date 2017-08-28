@@ -1,0 +1,5 @@
+C:\Kode\s2\conosol\hieraki\HierakiTest\bin\Debug\HierakiTest.dll
+C:\Kode\s2\conosol\hieraki\HierakiTest\bin\Debug\HierakiTest.pdb
+C:\Kode\s2\conosol\hieraki\HierakiTest\obj\Debug\HierakiTest.csprojResolveAssemblyReference.cache
+C:\Kode\s2\conosol\hieraki\HierakiTest\obj\Debug\HierakiTest.dll
+C:\Kode\s2\conosol\hieraki\HierakiTest\obj\Debug\HierakiTest.pdb

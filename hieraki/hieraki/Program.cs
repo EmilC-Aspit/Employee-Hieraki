@@ -10,7 +10,9 @@ namespace hieraki
     {
         static void Main(string[] args)
         {
+            //toast er gud udhsaoiudjiuashdoias
             Console.WriteLine("Hourley:");
+            Console.Writeline("Kagemand 45");
             HourlyEmployee mads = new HourlyEmployee("Mads", "Rasmussen", 10, 100M);
             HourlyEmployee emil = new HourlyEmployee("Emil", "Cordsen", 168, 200000);
             HourlyEmployee jack = new HourlyEmployee("jack", "Thomsen", 127, 20000);

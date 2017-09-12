@@ -6,3 +6,12 @@ C:\Kode\s2\conosol\hieraki\hieraki\bin\Debug\HierakiTest.pdb
 C:\Kode\s2\conosol\hieraki\hieraki\obj\Debug\hieraki.csprojResolveAssemblyReference.cache
 C:\Kode\s2\conosol\hieraki\hieraki\obj\Debug\hieraki.exe
 C:\Kode\s2\conosol\hieraki\hieraki\obj\Debug\hieraki.pdb
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\bin\Debug\hieraki.exe.config
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\bin\Debug\hieraki.exe
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\bin\Debug\hieraki.pdb
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\bin\Debug\HierakiTest.dll
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\bin\Debug\HierakiTest.pdb
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\obj\Debug\hieraki.csprojResolveAssemblyReference.cache
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\obj\Debug\hieraki.csproj.CoreCompileInputs.cache
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\obj\Debug\hieraki.exe
+C:\Users\emil055f\Source\Repos\Employee-Hieraki\hieraki\hieraki\obj\Debug\hieraki.pdb
